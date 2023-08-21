@@ -43,7 +43,13 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #ffffff;
 }
+
+#content h3{
+  color: black;
+}
+
 
 img {
   max-width: 100%;
